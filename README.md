@@ -1,19 +1,15 @@
-<h3 align="center">Olá! 👋</h3>
+<h3 align="center">Opa, tudo bem?</h3>
 
-Eu trabalho desenvolvendo softwares, porém, dado o site no qual estamos, você provavelmente já imaginava isso, correto? Assim, que tal informações mais específicas?
+<h4 align="center"> Quem sou eu: </h4>
 
-<img align="right" alt="Ilustração de um doodle agarrado a uma xícara de café gigante" src="./images/doodle.png" width="250">
+Me chamo Ezequiel e sou estudante de graduação em Tecnologia da Informação pela UFRN (Universidade Federal do Rio Grande do Norte).
 
-- Amo e defendo software livre. 🐐
-- Acredito na computação como meio para mudança do mundo e redução das desigualdades. 🤝
-- Em Azeroth, eu faço parte da Horda (<em lang="en">FOR THE HORDE!</em>). ⚔
-- Prezo fortemente pela acessibilidade na web e demais plataformas. ♿
+<img align="right" alt="Ilustração de um doodle usando biquíni" src="./images/doodle.png" width="250">
 
-Ademais, cabe pontuar que no momento estou cursando Bacharelado em Tecnologia da Informação no Instituto Metrópole Digital, da UFRN. 🎓
+Entusiasta da programação, divido meu tempo entre aprender coisas novas e aproveitar tudo de bom que a vida tem a oferecer. Quando não estou imerso no mundo dos livros e filmes, gosto de passar o tempo descobrindo novas formas de me aperfeiçoar, afinal, curiosidade é algo que sempre me definiu.
 
 <h4 align="center">Onde me Encontrar? 🔍</h4>
 
 Além dos corredores abafados do IMD, eu habito os seguintes lugares:
 
-- <a href="http://bit.ly/iweya-medium" title="Meu perfil no Medium"><img alt="Logotipo do Medium" height="20" src="./images/medium-logo.png"> Medium</a>
-- <a href="http://bit.ly/iweya-linkedin" title="Meu perfil no LinkedIn"><img alt="Logotipo do LinkedIn" height="20" src="./images/linkedin-logo.png"> LinkedIn</a>
+- <a href="www.linkedin.com/in/ezequielmorais" title="Meu perfil no LinkedIn"><img alt="Logotipo do LinkedIn" height="20" src="./images/linkedin-logo.png"> LinkedIn</a>
