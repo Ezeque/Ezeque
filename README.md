@@ -1,4 +1,6 @@
-<h3 align="center">Opa, tudo bem?</h3>
+<h3 align="center">Olá Mundo! 🖥</h3>
+
+<img align="center" alt="Ilustração de um doodle usando biquíni" src="./images/helloworld.gif" width="250">
 
 <h4 align="center"> Quem sou eu: </h4>
 
