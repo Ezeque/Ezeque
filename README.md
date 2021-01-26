@@ -26,9 +26,9 @@
     </li>
   </ul>
   <br/><br/>
-  <h4 align="center">Onde me Encontrar? 🔍</h4>
+  <h4>Onde me Encontrar? 🔍</h4>
 
-<center>Boa pergunta! Segue a lista de lugares onde você pode trombar comigo...</center>
-
+Boa pergunta! Segue a lista de lugares onde você pode trombar comigo...
+<br/>
   - <a href="www.linkedin.com/in/ezequielmorais" title="Meu perfil no LinkedIn"><img alt="Logotipo do LinkedIn" height="20" src="./images/linkedin-logo.png"> LinkedIn</a>
 
