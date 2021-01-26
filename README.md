@@ -10,7 +10,7 @@
   
   >*"São as perguntas que não conseguimos responder que mais nos ensinam. Elas nos ensinam a pensar. Se você der à um homem uma resposta, Tudo que ele ganhará é um pequeno fato. Mas dê-lhe uma pergunta, e ele encontrará sua própria resposta."* **Patrick Rothfuss, O Temor do sábio**
   
-  <br/><br/><br/>
+  <br/><br/>
   <img align="left" alt="Ilustração de um diário" src="./images/Diary.png" width="250">
   <h4 align="center">Um pouco mais sobre mim... </h4>
   
@@ -25,10 +25,10 @@
          -Compositor amador e futuro escritor.
     </li>
   </ul>
-  <br/><br/><br/>
+  <br/><br/>
   <h4 align="center">Onde me Encontrar? 🔍</h4>
 
-Boa pergunta! Segue a lista de lugares onde você pode trombar comigo...
+<center>Boa pergunta! Segue a lista de lugares onde você pode trombar comigo...</center>
 
   - <a href="www.linkedin.com/in/ezequielmorais" title="Meu perfil no LinkedIn"><img alt="Logotipo do LinkedIn" height="20" src="./images/linkedin-logo.png"> LinkedIn</a>
 
