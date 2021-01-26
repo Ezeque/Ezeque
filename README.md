@@ -1,5 +1,3 @@
-<div style="text-align= center;">
-  <img align="right" alt="Ilustração de um doodle usando biquíni" src="./images/helloworld.gif" width="300">
   <h3 align="center">Olá Mundo! 🖥</h3> 
 
   <h4 align="center"> Quem sou eu: </h4>
@@ -8,11 +6,18 @@
 
   <img align="right" alt="Ilustração de um doodle usando biquíni" src="./images/doodle.png" width="250">
 
-  Entusiasta da programação, divido meu tempo entre aprender coisas novas e aproveitar tudo de bom que a vida tem a oferecer. Quando não estou imerso no mundo dos livros e filmes, gosto de passar o tempo descobrindo novas formas de me aperfeiçoar, afinal, considero a curiosidade uma das maiores virtudes, e também algo que sempre me definiu.
+  Entusiasta da programação, divido meu tempo entre aprender coisas novas e aproveitar tudo de bom que a vida tem a oferecer. Quando não estou imerso no mundo dos livros e filmes, gosto de passar o tempo descobrindo novas formas de me aperfeiçoar, afinal, considero a curiosidade não só como uma das maiores virtudes, mas também algo que sempre me definiu.
+  
+  >*"São as perguntas que não conseguimos responder que mais nos ensinam. Elas nos ensinam a pensar. Se você der à um homem uma resposta, Tudo que ele ganhará é um pequeno fato. Mas dê-lhe uma pergunta, e ele encontrará sua própria resposta."* **Patrick Rothfuss, O Temor do sábio**
+  
+  <h4 align="center">Um pouco mais sobre mim... </h4>
+   -Apaixonado pela escrita poética de "O Nome do Vento" e pelo mundo mágico de Harry Potter (Viva Lufa-Lufa).
+   -Sonho em viajar pelo mundo, conhecer desde as Pirâmides do Egito até a Grande Muralha da China. 
+   -Compositor amador e futuro escritor.
 
   <h4 align="center">Onde me Encontrar? 🔍</h4>
 
   Além dos corredores abafados do IMD, eu habito os seguintes lugares:
 
   - <a href="www.linkedin.com/in/ezequielmorais" title="Meu perfil no LinkedIn"><img alt="Logotipo do LinkedIn" height="20" src="./images/linkedin-logo.png"> LinkedIn</a>
-</div>
+
