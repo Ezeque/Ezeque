@@ -6,7 +6,7 @@ Me chamo Ezequiel e sou estudante de graduação em Tecnologia da Informação p
 
 <img align="right" alt="Ilustração de um doodle usando biquíni" src="./images/doodle.png" width="250">
 
-Entusiasta da programação, divido meu tempo entre aprender coisas novas e aproveitar tudo de bom que a vida tem a oferecer. Quando não estou imerso no mundo dos livros e filmes, gosto de passar o tempo descobrindo novas formas de me aperfeiçoar, afinal, curiosidade é algo que sempre me definiu.
+Entusiasta da programação, divido meu tempo entre aprender coisas novas e aproveitar tudo de bom que a vida tem a oferecer. Quando não estou imerso no mundo dos livros e filmes, gosto de passar o tempo descobrindo novas formas de me aperfeiçoar, afinal, considero a curiosidade uma das maiores virtudes, e também algo que sempre me definiu.
 
 <h4 align="center">Onde me Encontrar? 🔍</h4>
 
