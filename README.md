@@ -22,7 +22,7 @@
       Sonho em viajar pelo mundo, conhecer desde as Pirâmides do Egito até a Grande Muralha da China. 
     </li>
     <li>
-         -Compositor amador e futuro escritor.
+         Compositor amador e futuro escritor.
     </li>
   </ul>
   <br/><br/>
