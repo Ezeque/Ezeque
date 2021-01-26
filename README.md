@@ -10,8 +10,10 @@
   
   >*"São as perguntas que não conseguimos responder que mais nos ensinam. Elas nos ensinam a pensar. Se você der à um homem uma resposta, Tudo que ele ganhará é um pequeno fato. Mas dê-lhe uma pergunta, e ele encontrará sua própria resposta."* **Patrick Rothfuss, O Temor do sábio**
   
-  <h4 align="center">Um pouco mais sobre mim... </h4>
+  <br/><br/><br/>
   <img align="right" alt="Ilustração de um diário" src="./images/Diary.png" width="250">
+  <h4 align="center">Um pouco mais sobre mim... </h4>
+  
   <ul>
     <li>
       Apaixonado pela escrita poética de "O Nome do Vento" e pelo mundo mágico de Harry Potter (Viva Lufa-Lufa).
