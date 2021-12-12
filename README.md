@@ -10,7 +10,11 @@
   
   >*"It's the questions we can't answer that teach us the most. They teach us how to think. If you give a man an answer, all he gains is a little fact. But give him a question and he'll look for his own answers."* **Patrick Rothfuss, The wise Man's Fear**
   
-  If you're curious, I currently work with HTML5, CSS3 and Javascript for Web Development.
+  If you're curious, I currently work with: 
+  - HTML5
+  - CSS3
+  - Javascript
+  - PHP (Laravel)
   <br/>
   <img align="left" alt="Ilustração de um diário" src="./images/Diary.png" width="250">
   <h4 align="center">A little more about Myself... </h4>
